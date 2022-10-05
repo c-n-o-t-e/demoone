@@ -1,6 +1,6 @@
 const { Client, GatewayIntentBits } = require("discord.js");
 const token =
-  "MTAyNzAyMTM4MTY5MjU1NTI5NA.G6icTd.ztYg0LlvNJOgxkomntyEhRywZ0um19ExGEHVuk";
+  "MTAyNzAyMTM4MTY5MjU1NTI5NA.GYIqKB.mXAB1E1rHnMf2cn8KwfHBYSWWS-JaX-qJaZ3Tc";
 
 const client = new Client({
   intents: [
